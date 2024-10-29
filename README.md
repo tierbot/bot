@@ -1,2 +1,2 @@
 # bot
-school project
+school project i made lol, yea.

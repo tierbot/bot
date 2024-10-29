@@ -30,5 +30,5 @@ async def on_message(message):
     elif message.content.startswith("$motivate"):
         await message.channel.send(mMessage())
 
-client.run("MTI5NTczNTc0NDMzNzQxMjEyNw.G_WO4D.Mk0uUvgGl8YchtuHJ3hUhny4eC37BhkPMI6ef4")
+client.run("No")
 
